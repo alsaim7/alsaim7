@@ -20,7 +20,7 @@ I'm a Software Development Engineer based in Lucknow, India, with a strong backe
 
 I enjoy building things that work reliably — clean APIs, sensible database design, and frontends that don't get in the way.
 
-- 🎓 B.Tech in Computer Science Engineering — Integral University, Lucknow (CGPA: 8.1/10)
+- 🎓 B.Tech in Computer Science Engineering — Integral University, Lucknow
 - 💼 SDE @ K.K. Hospital · Freelance Full-Stack Developer
 - 🔧 Currently deepening expertise in scalable backend architecture and system design
 - 🤝 Open to full-time roles and freelance collaborations
