@@ -20,7 +20,7 @@ I'm a Software Development Engineer based in Lucknow, India, with a strong backe
 
 I enjoy building things that work reliably — clean APIs, sensible database design, and frontends that don't get in the way.
 
-- 🎓 B.Tech in Computer Science Engineering — Integral University, Lucknow
+- 🎓 B.Tech in Computer Science Engineering — Integral University, Lucknow (CGPA: 8.1/10)
 - 💼 SDE @ K.K. Hospital · Freelance Full-Stack Developer
 - 🔧 Currently deepening expertise in scalable backend architecture and system design
 - 🤝 Open to full-time roles and freelance collaborations
@@ -116,9 +116,10 @@ A machine learning model that classifies tweets as disaster-related or not, buil
 
 <div align="center">
 
-![Al Saim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsaim7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Al Saim's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsaim7&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alsaim7&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alsaim7&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alsaim7&theme=github_dark)
 
 </div>
 
